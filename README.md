@@ -1,4 +1,4 @@
-# python_excel
+# python_excel.py
 This repo is for the better understanding of how pyexcel works
 
 # pyexcel
@@ -8,7 +8,7 @@ The idea originated from the common usability problem: when an excel file driven
 
 <div align=center>
   
-# sample image
+# Preview Image
 
 
 ![Image of main](https://github.com/mmtmn/python_excel/blob/master/README_image/python_excel_image.png)
