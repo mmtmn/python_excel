@@ -7,7 +7,7 @@ The idea originated from the common usability problem: when an excel file driven
 
 <div align=center>
 
-![Image of main](https://github.com/mmtmn/python_exel/blob/master/README_image/python_excel_image.png)
+![Image of main](https://github.com/mmtmn/python_excel/blob/master/README_image/python_excel_image.png)
 
 </div>
 
